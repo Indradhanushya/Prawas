@@ -1,123 +1,35 @@
 {
   "project_info": {
-    "project_number": "858285863965",
-    "firebase_url": "https://superandroid-f37f0.firebaseio.com",
-    "project_id": "superandroid-f37f0",
-    "storage_bucket": "superandroid-f37f0.appspot.com"
+    "project_number": "19549692216",
+    "firebase_url": "https://prawas-the-journey.firebaseio.com",
+    "project_id": "prawas-the-journey",
+    "storage_bucket": "prawas-the-journey.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:858285863965:android:fbe3f30b07b9ba98",
+        "mobilesdk_app_id": "1:19549692216:android:307edf5179a9dbbe",
         "android_client_info": {
-          "package_name": "towingvehicle.superandroid"
+          "package_name": "prawas.exa.com.prawas_journy"
         }
       },
       "oauth_client": [
         {
-          "client_id": "858285863965-utodn5q8rl4fap2f527g2ebned9hi3cd.apps.googleusercontent.com",
+          "client_id": "19549692216-kc485sotvaahgo77hf24vcqasetvs84n.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "towingvehicle.superandroid",
-            "certificate_hash": "06bc96503ec3838b74f16a60be7870cb43bd77e4"
-          }
-        },
-        {
-          "client_id": "858285863965-seo4f414q6enmms2srejdsb30bmrsfit.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyD6cEIu7SWfiStTam9i01XCbouSb1omb5o"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "858285863965-seo4f414q6enmms2srejdsb30bmrsfit.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:858285863965:android:3cf5647f24ce8329",
-        "android_client_info": {
-          "package_name": "com.exa.finq"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "858285863965-ehdgf7adkhp3c15tdt4lpj8fbo5h4k29.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.exa.finq",
-            "certificate_hash": "2c54101151b274d2815e3d939e394d9521bef82f"
-          }
-        },
-        {
-          "client_id": "858285863965-seo4f414q6enmms2srejdsb30bmrsfit.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyD6cEIu7SWfiStTam9i01XCbouSb1omb5o"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "858285863965-seo4f414q6enmms2srejdsb30bmrsfit.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:858285863965:android:561d3c8034d28431",
-        "android_client_info": {
-          "package_name": "prawas.exa.com.prawas"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "858285863965-brfj10q17ohmmbl708ci5bkfq30ri0ql.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "prawas.exa.com.prawas",
+            "package_name": "prawas.exa.com.prawas_journy",
             "certificate_hash": "c273986c197f07db679d4d5981940fa7790cbb84"
           }
         },
         {
-          "client_id": "858285863965-seo4f414q6enmms2srejdsb30bmrsfit.apps.googleusercontent.com",
+          "client_id": "19549692216-iqtv16hnfc172g3qmql5fp3dmnfr3iqa.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD6cEIu7SWfiStTam9i01XCbouSb1omb5o"
+          "current_key": "AIzaSyBGT7RvPjJ2HDjGvUe1BPnQxfWh3Rp5FGY"
         }
       ],
       "services": {
@@ -128,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "858285863965-seo4f414q6enmms2srejdsb30bmrsfit.apps.googleusercontent.com",
+              "client_id": "19549692216-iqtv16hnfc172g3qmql5fp3dmnfr3iqa.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
