@@ -65,6 +65,21 @@
                     android:rating="1"
                     android:stepSize="0.5" />
 
+
+                <TextView
+                    android:id="@+id/lattitude"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    />
+
+                <TextView
+                    android:id="@+id/longitude"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    />
+
                 <HorizontalScrollView
                     android:id="@+id/horizontalLayout"
                     android:layout_width="match_parent"
